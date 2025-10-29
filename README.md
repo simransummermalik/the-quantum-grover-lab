@@ -1,4 +1,4 @@
-# 🧠 Grover’s Escape Room: Quantum vs. Classical Search
+# Grover’s Escape Room: Quantum vs. Classical Search
 
 ### “If you can find the code faster, you escape the box. Classical brute force checks every key. Quantum amplifies the right one.”
 
