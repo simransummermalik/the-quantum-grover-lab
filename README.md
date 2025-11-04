@@ -7,7 +7,7 @@
 
 ---
 
-## Overview
+## Overview...
 
 This repository hosts an interactive, classroom-ready **Grover’s Algorithm demonstration** built in Python with [PennyLane](https://pennylane.ai/).  
 It’s designed to **visually and conceptually showcase how quantum search achieves a quadratic speedup** over classical brute force, framed as a “code-breaking escape room.”
